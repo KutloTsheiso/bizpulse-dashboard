@@ -1,0 +1,13 @@
+Month,Sales,Expenses,Profit,Region,Team
+Jan,125000,82000,43000,Gauteng,Alpha
+Feb,148000,95000,53000,Western Cape,Beta
+Mar,112000,74000,38000,KwaZulu-Natal,Alpha
+Apr,187000,118000,69000,Gauteng,Gamma
+May,203000,124000,79000,Eastern Cape,Beta
+Jun,176000,108000,68000,Western Cape,Alpha
+Jul,215000,135000,80000,Gauteng,Gamma
+Aug,198000,122000,76000,KwaZulu-Natal,Beta
+Sep,221000,142000,79000,Gauteng,Alpha
+Oct,254000,155000,99000,Western Cape,Gamma
+Nov,238000,144000,94000,Eastern Cape,Beta
+Dec,276000,168000,108000,Gauteng,Alpha

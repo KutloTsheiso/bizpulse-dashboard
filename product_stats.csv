@@ -1,0 +1,21 @@
+Product,Category,Units_Sold,Revenue,Cost,Profit,Stock_Level,Rating,Region
+Samsung TV 55",Electronics,145,362500,217500,145000,23,4.5,Gauteng
+iPhone 14 Pro,Electronics,89,534000,356000,178000,12,4.8,Western Cape
+Nike Air Max,Clothing,312,468000,234000,234000,45,4.3,KwaZulu-Natal
+Hisense Fridge,Electronics,198,594000,396000,198000,31,4.2,Gauteng
+Levi's Jeans,Clothing,425,382500,191250,191250,67,4.4,Eastern Cape
+Nescafe Coffee,Food,892,133800,89200,44600,134,4.6,Gauteng
+Sunfoil Oil 2L,Food,1245,99600,62250,37350,189,4.1,Western Cape
+Adidas Hoodie,Clothing,287,344400,172200,172200,52,4.3,KwaZulu-Natal
+LG Washing Machine,Electronics,112,448000,280000,168000,18,4.5,Gauteng
+Albany Bread,Food,2341,140460,93640,46820,312,4.2,Eastern Cape
+HP Laptop 15",Electronics,76,532000,380000,152000,9,4.7,Gauteng
+Puma Sneakers,Clothing,198,277200,138600,138600,38,4.1,Western Cape
+Ricoffy 750g,Food,1123,112300,67380,44920,167,4.4,KwaZulu-Natal
+Sony Headphones,Electronics,234,351000,210600,140400,41,4.6,Gauteng
+Woolworths Milk 2L,Food,3421,171050,102630,68420,445,4.3,Eastern Cape
+Converse All Stars,Clothing,356,320400,160200,160200,58,4.5,Gauteng
+Huawei Tablet,Electronics,94,376000,235000,141000,15,4.2,Western Cape
+Jungle Oats 1kg,Food,1678,117460,75510,41950,223,4.5,KwaZulu-Natal
+Levis T-Shirt,Clothing,512,256000,128000,128000,89,4.0,Gauteng
+Bosch Microwave,Electronics,87,391500,261000,130500,14,4.4,Eastern Cape
