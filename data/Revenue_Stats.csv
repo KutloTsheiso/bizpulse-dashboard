@@ -1,0 +1,13 @@
+Month,Actual_Revenue,Target_Revenue,Last_Year_Revenue,New_Clients,Recurring_Clients,Stream
+Jan,125000,120000,98000,12,45,Product Sales
+Feb,148000,140000,112000,15,48,Product Sales
+Mar,112000,130000,105000,8,42,Services
+Apr,187000,160000,134000,21,52,Product Sales
+May,203000,180000,156000,24,58,Services
+Jun,176000,175000,148000,18,55,Consulting
+Jul,215000,200000,167000,27,61,Product Sales
+Aug,198000,195000,172000,22,59,Services
+Sep,221000,210000,181000,29,64,Consulting
+Oct,254000,230000,198000,33,69,Product Sales
+Nov,238000,225000,189000,30,66,Services
+Dec,276000,260000,215000,38,72,Product Sales
